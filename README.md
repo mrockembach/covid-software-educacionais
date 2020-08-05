@@ -1,1 +1,1 @@
-# covid-software-educacionais.github.io
+# covid-software-educacionais
