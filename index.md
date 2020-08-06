@@ -6,6 +6,9 @@ Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 - [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
 - Creately
 - LucidChart
+- Mentimeter
+- Kahoot!
+- Canva
 - Padlet
 - Xmind
 - Mindly
