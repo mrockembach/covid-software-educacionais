@@ -22,4 +22,4 @@ Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software
 Universidade Federal do Rio Grande do Sul - UFRGS - [Tabela Dinâmica Software Educacional livre](https://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinâmica_Software_Educacional_livre_-_Português_Europeu)
 
 ### Conhece alguma ferramenta interessante que não está nesta lista?
-Mande um email <moises.rockembach@ufrgs.br> para incluírmos e melhorarmos cada vez mais esta seleção.
+Mande um e-mail para <moises.rockembach@ufrgs.br> para incluírmos e melhorarmos cada vez mais esta seleção.
