@@ -1,5 +1,12 @@
-
+### Lista de software educacionais 
 [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
+
+Creately
+LucidChart
+Padlet
+Xmind
+Mindly
+Mindmeister
 
 ### Listas de software livre
 Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
