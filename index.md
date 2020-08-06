@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lista de software educacionais para uso no ensino remoto
 
 You can use the [editor on GitHub](https://github.com/mrockembach/covid-software-educacionais.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
