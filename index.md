@@ -2,9 +2,9 @@
 [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
 
 ### Listas de software livre
-Associação Nacional de Software Livre - ANSOL / Portugal [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
+Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
 
-Universidade Federal do Rio Grande do Sul - UFRGS [Tabela Dinâmica Software Educacional livre](https://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinâmica_Software_Educacional_livre_-_Português_Europeu)
+Universidade Federal do Rio Grande do Sul - UFRGS - [Tabela Dinâmica Software Educacional livre](https://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinâmica_Software_Educacional_livre_-_Português_Europeu)
 
 You can use the [editor on GitHub](https://github.com/mrockembach/covid-software-educacionais.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
