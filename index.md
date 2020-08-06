@@ -4,15 +4,16 @@
 Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 
 - [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
-- Creately
-- LucidChart
-- Mentimeter
-- Kahoot!
-- Canva
-- Padlet
-- Xmind
-- Mindly
-- Mindmeister
+- [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
+- [LucidChart - The visual workspace for remote teams](https://www.lucidchart.com/pages/)
+- [Mentimeter - Create interactive presentations & meetings](https://www.mentimeter.com)
+- [Kahoot! - Game-based learning platform](https://kahoot.com)
+- [Canva - Create beautiful designs](https://www.canva.com)
+- [Padlet - Crie belos quadros, documentos e páginas da web fáceis de ler e divertidos de usar](https://padlet.com)
+- [Xmind - Mind Mapping Software](https://www.xmind.net)
+- [Mindly - creative and visual thought organizer for inspired individuals](https://www.mindlyapp.com)
+- [Mindmeister - crie seu mapa mental](https://www.mindmeister.com/pt)
+
 
 ### Listas de software livre educacionais
 Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
