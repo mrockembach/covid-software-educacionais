@@ -21,4 +21,4 @@ Universidade Federal do Rio Grande do Sul - UFRGS - [Tabela Dinâmica Software E
 
 ### Contato
 
-Encontrou uma ferramenta interessante que não está nesta lista? [Mande](moises.rockembach@ufrgs.br) o nome e link que adicionamos aqui! Quer adicionar or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Encontrou uma ferramenta interessante que não está nesta lista? [Mande](mailto: moises.rockembach@ufrgs.br) o nome e link que adicionamos aqui! Quer adicionar or [contact support](https://github.com/contact) and we’ll help you sort it out.
