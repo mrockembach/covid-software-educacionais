@@ -1,4 +1,5 @@
 ### Lista de software educacionais 
+
 - [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
 - Creately
 - LucidChart
