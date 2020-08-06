@@ -1,6 +1,6 @@
 ## Lista de software educacionais para uso no ensino remoto
 
-### [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
+[Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
 
 ### Lista de software livre da Associação Nacional de Software Livre - ANSOL / Portugal - COVID-19: Software Educativo Livre para Ensino e Teletrabalho
 ### https://covid-19.ansol.org
