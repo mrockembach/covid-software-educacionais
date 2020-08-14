@@ -14,6 +14,7 @@ Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 - [Padlet - Crie belos quadros, documentos e páginas da web fáceis de ler e divertidos de usar](https://padlet.com)
 - [Xmind - Mind Mapping Software](https://www.xmind.net)
 - [Draw.io - free online diagram software for making flowcharts, process diagrams](https://www.draw.io)
+- [Notion - All-in-one workspace One tool for your whole team. Write, plan, and get organized.](http://www.notion.so)
 
 
 
