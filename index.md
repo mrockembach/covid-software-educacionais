@@ -3,6 +3,11 @@
 ![Image](https://images.unsplash.com/photo-1586699024673-eb0c0e85528e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1381&q=80)
 Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 
+Microsoft Teams, recursos e tutoriais
+[Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free)
+[Microsoft Teams | Together Mode](https://www.youtube.com/watch?v=IFt4NF_gFQY)
+[Microsoft Teams | Breakout Rooms](https://www.youtube.com/watch?v=d_iD5PLgr08)
+
 Lista de software educacionais
 
 - [Canva - Create beautiful designs](https://www.canva.com)
