@@ -2,7 +2,7 @@
 
 ![Image](https://images.unsplash.com/photo-1586699024673-eb0c0e85528e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1381&q=80)
 Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
-
+Lista de software educacionais
 - [Canva - Create beautiful designs](https://www.canva.com)
 - [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
 - [Kahoot! - Game-based learning platform](https://kahoot.com)
@@ -15,6 +15,7 @@ Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 - [Xmind - Mind Mapping Software](https://www.xmind.net)
 - [Draw.io - free online diagram software for making flowcharts, process diagrams](https://www.draw.io)
 - [Notion - All-in-one workspace One tool for your whole team. Write, plan, and get organized.](http://www.notion.so)
+- [FreePik - Graphic resources for everyone Find Free Vectors, Stock Photos, PSD and Icons](http://www.freepik.com)
 
 
 
