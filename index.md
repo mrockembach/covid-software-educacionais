@@ -7,9 +7,9 @@ Microsoft Teams, recursos e tutoriais
 
 [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free)
 
-[Microsoft Teams | Together Mode](https://www.youtube.com/watch?v=IFt4NF_gFQY)
+[Microsoft Teams - Together Mode](https://www.youtube.com/watch?v=IFt4NF_gFQY)
 
-[Microsoft Teams | Breakout Rooms](https://www.youtube.com/watch?v=d_iD5PLgr08)
+[Microsoft Teams - Breakout Rooms](https://www.youtube.com/watch?v=d_iD5PLgr08)
 
 Lista de software educacionais
 
