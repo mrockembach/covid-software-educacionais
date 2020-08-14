@@ -4,6 +4,7 @@
 Imagem: [unsplash](https://unsplash.com/photos/H9LS95WL8tM)
 
 Microsoft Teams, recursos e tutoriais
+
 [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free)
 
 [Microsoft Teams | Together Mode](https://www.youtube.com/watch?v=IFt4NF_gFQY)
