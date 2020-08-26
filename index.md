@@ -14,6 +14,7 @@ Microsoft Teams, recursos e tutoriais
 Lista de software educacionais
 
 - [Canva - Create beautiful designs](https://www.canva.com)
+- [Infogram - Create engaging infographics and reports in minutes](https://infogram.com)
 - [Sway - Crie boletins informativos, apresentações e documentação incríveis em minutos](https://sway.office.com)
 - [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
 - [Kahoot! - Game-based learning platform](https://kahoot.com)
