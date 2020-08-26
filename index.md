@@ -18,6 +18,7 @@ Lista de software educacionais
 - [Sway - Crie boletins informativos, apresentações e documentação incríveis em minutos](https://sway.office.com)
 - [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
 - [Kahoot! - Game-based learning platform](https://kahoot.com)
+- [Wordart - online word cloud art creator](https://wordart.com)
 - [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
 - [LucidChart - The visual workspace for remote teams](https://www.lucidchart.com/pages/)
 - [Mentimeter - Create interactive presentations & meetings](https://www.mentimeter.com)
