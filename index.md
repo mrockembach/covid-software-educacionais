@@ -15,6 +15,7 @@ Lista de software educacionais
 
 - [Canva - Create beautiful designs](https://www.canva.com)
 - [Infogram - Create engaging infographics and reports in minutes](https://infogram.com)
+- [Visme - Create engaging presentations, professional infographics, and other stunning visuals online](https://www.visme.co)
 - [Sway - Crie boletins informativos, apresentações e documentação incríveis em minutos](https://sway.office.com)
 - [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
 - [Kahoot! - Game-based learning platform](https://kahoot.com)
