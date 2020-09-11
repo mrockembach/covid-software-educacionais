@@ -14,6 +14,7 @@ Microsoft Teams, recursos e tutoriais
 Lista de software educacionais
 
 - [Canva - Create beautiful designs](https://www.canva.com)
+- [Miro - Take visual collaboration anywhere you go with Miro apps](https://miro.com)
 - [Infogram - Create engaging infographics and reports in minutes](https://infogram.com)
 - [Visme - Create engaging presentations, professional infographics, and other stunning visuals online](https://www.visme.co)
 - [Sway - Crie boletins informativos, apresentações e documentação incríveis em minutos](https://sway.office.com)
