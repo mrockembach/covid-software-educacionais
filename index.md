@@ -13,6 +13,7 @@ Microsoft Teams, recursos e tutoriais
 
 Lista de software educacionais
 
+- [ShareXScreen - capture, file sharing and productivity tool](https://getsharex.com)
 - [Pollev - Poll Everywhere](https://pollev.com)
 - [Canva - Create beautiful designs](https://www.canva.com)
 - [Miro - Take visual collaboration anywhere you go with Miro apps](https://miro.com)
