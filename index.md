@@ -34,7 +34,16 @@ Lista de software educacionais
 - [Notion - All-in-one workspace One tool for your whole team. Write, plan, and get organized.](http://www.notion.so)
 - [FreePik - Graphic resources for everyone Find Free Vectors, Stock Photos, PSD and Icons](http://www.freepik.com)
 
-
+Gestão de projetos a distância / online
+- [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
+- [Slack - um lugar onde as pessoas trabalham em conjunto](https://slack.com/intl/pt-br/)
+- [ClickUp - One place for all your work](https://clickup.com)
+- [Asana - Dedique-se às grandes ideias, sem trabalhos repetitivos](https://asana.com/pt)
+- [ClubHouse - Clubhouse is collaborative project management that streamlines and refines your existing workflow. Managing your tasks shouldn't be a task](https://clubhouse.io)
+- [Basecamp - The All-In-One Toolkit for Working Remotely](https://basecamp.com/discounts)
+- [ProofHub - The one place for all your projects and team collaboration](https://www.proofhub.com)
+- [Paymo - Navigate the academic world with Paymo](https://www.paymoapp.com/project-management-universities/)
+- [Notion - All-in-one workspace](https://www.notion.so)
 
 ### Listas de software livre educacionais
 Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
