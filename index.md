@@ -34,6 +34,7 @@ Lista de software educacionais
 - [Notion - All-in-one workspace One tool for your whole team. Write, plan, and get organized.](http://www.notion.so)
 - [FreePik - Graphic resources for everyone Find Free Vectors, Stock Photos, PSD and Icons](http://www.freepik.com)
 - [Zyte - Covid-19 data](https://www.zyte.com/covid-19-data/)
+- [Calendly - agendamento de reuniões](https://calendly.com/pt)
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
