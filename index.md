@@ -46,6 +46,7 @@ Gestão de projetos a distância / online
 - [ProofHub - The one place for all your projects and team collaboration](https://www.proofhub.com)
 - [Paymo - Navigate the academic world with Paymo](https://www.paymoapp.com/project-management-universities/)
 - [Notion - All-in-one workspace](https://www.notion.so)
+- [Airtable | Create apps that perfectly fit your team's needs - low-code platform](https://airtable.com)
 
 ### Listas de software livre educacionais
 Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
