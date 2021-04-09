@@ -20,7 +20,7 @@ Lista de software educacionais
 - [Infogram - Create engaging infographics and reports in minutes](https://infogram.com)
 - [Visme - Create engaging presentations, professional infographics, and other stunning visuals online](https://www.visme.co)
 - [Sway - Crie boletins informativos, apresentações e documentação incríveis em minutos](https://sway.office.com)
-- [Creately - Chart, Diagram & Visual Canvas Software](https://creately.com)
+- [Creately - Chart, Diagram & Visual Canvas Software / Pense e planeje visualmente](https://creately.com)
 - [Kahoot! - Game-based learning platform](https://kahoot.com)
 - [Wordart - online word cloud art creator](https://wordart.com)
 - [Kialo Edu - The tool to teach critical thinking and rational debate](https://www.kialo-edu.com)
@@ -36,7 +36,7 @@ Lista de software educacionais
 - [Zyte - Covid-19 data](https://www.zyte.com/covid-19-data/)
 - [Calendly - agendamento de reuniões](https://calendly.com/pt)
 - [Tools and technologies for social science research, a SAGE whitepaper](https://github.com/sagepublishing/sage_tools_social_science)
-- [Creately - Pense e planeje visualmente](https://creately.com)
+
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
