@@ -55,5 +55,7 @@ Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software
 
 Universidade Federal do Rio Grande do Sul - UFRGS - [Tabela Dinâmica Software Educacional livre](https://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinâmica_Software_Educacional_livre_-_Português_Europeu)
 
+[Lista com aplticativos para visualização de dados - D3, Tableau, Leaflet, Plotly, entre outros](https://www.computerworld.com/article/2506820/business-intelligence-chart-and-image-gallery-30-free-tools-for-data-visualization-and-analysis.html)
+
 ### Conhece alguma ferramenta interessante que não está nesta lista?
 Mande um e-mail para <moises.rockembach@ufrgs.br> para incluírmos e melhorarmos cada vez mais esta seleção. 
