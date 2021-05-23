@@ -36,7 +36,7 @@ Lista de software educacionais
 - [Zyte - Covid-19 data](https://www.zyte.com/covid-19-data/)
 - [Calendly - agendamento de reuniões](https://calendly.com/pt)
 - [Tools and technologies for social science research, a SAGE whitepaper](https://github.com/sagepublishing/sage_tools_social_science)
-
+- [Editar e cortar vídeos online - Online Video Cutter] - (https://online-video-cutter.com/pt/)
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
