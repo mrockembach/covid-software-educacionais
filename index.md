@@ -39,6 +39,7 @@ Lista de software educacionais
 - [Editar e cortar vídeos online - Online Video Cutter](https://online-video-cutter.com/pt/)
 - [123Apps - Awesome web apps for everyday needs - videos, audio, pdf, coverters](https://123apps.com/pt/)
 - [Gere uma senha segura - last pass](https://www.lastpass.com/pt/password-generator)
+- [Teleprompter online - cueprompter](https://cueprompter.com)
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
