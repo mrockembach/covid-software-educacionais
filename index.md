@@ -40,6 +40,7 @@ Lista de software educacionais
 - [123Apps - Awesome web apps for everyday needs - videos, audio, pdf, coverters](https://123apps.com/pt/)
 - [Gere uma senha segura - last pass](https://www.lastpass.com/pt/password-generator)
 - [Teleprompter online - cueprompter](https://cueprompter.com)
+- [Kawping - edição e inclusão de legendas em vídeos](https://www.kapwing.com)
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
