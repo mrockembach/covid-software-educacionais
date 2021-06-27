@@ -42,6 +42,7 @@ Lista de software educacionais
 - [Teleprompter online - cueprompter](https://cueprompter.com)
 - [Kawping - edição e inclusão de legendas em vídeos](https://www.kapwing.com)
 - [Even3 - organização de eventos](https://www.even3.com.br)
+- [Coogle - Mind Maps and Flow Charts](https://coggle.it)
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
