@@ -43,7 +43,9 @@ Lista de software educacionais
 - [Kawping - edição e inclusão de legendas em vídeos](https://www.kapwing.com)
 - [Even3 - organização de eventos](https://www.even3.com.br)
 - [Coogle - Mind Maps and Flow Charts](https://coggle.it)
-- [Timely - teams track time](https://memory.ai/timely)
+- [OSF - plataforma aberta e gratuita para apoiar sua pesquisa e permitir a colaboração](https://osf.io)
+- [Jamboard - quadro branco interativo digital do Google](https://jamboard.google.com)
+
 
 Gestão de projetos a distância / online
 - [Trello - O Trello ajuda os times a trabalhar com mais colaboração e ter mais produtividade](https://trello.com)
@@ -56,6 +58,9 @@ Gestão de projetos a distância / online
 - [Paymo - Navigate the academic world with Paymo](https://www.paymoapp.com/project-management-universities/)
 - [Notion - All-in-one workspace](https://www.notion.so)
 - [Airtable | Create apps that perfectly fit your team's needs - low-code platform](https://airtable.com)
+- [Rock.so - Específico para equipes remotas. Mensagens, tarefas, notas, Google Drive e Zoom juntos](https://rock.so)
+- [Timely - teams track time](https://memory.ai/timely)
+
 
 ### Listas de software livre educacionais
 Associação Nacional de Software Livre - ANSOL / Portugal - [COVID-19: Software Educativo Livre para Ensino e Teletrabalho](https://covid-19.ansol.org)
