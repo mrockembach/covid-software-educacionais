@@ -43,6 +43,7 @@ Lista de software educacionais
 - [Kawping - edição e inclusão de legendas em vídeos](https://www.kapwing.com)
 - [Even3 - organização de eventos](https://www.even3.com.br)
 - [Coogle - Mind Maps and Flow Charts](https://coggle.it)
+- [MapBox - Maps and location for developers](https://www.mapbox.com)
 - [OSF - plataforma aberta e gratuita para apoiar sua pesquisa e permitir a colaboração](https://osf.io)
 - [Jamboard - quadro branco interativo digital do Google](https://jamboard.google.com)
 
