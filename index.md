@@ -46,6 +46,9 @@ Lista de software educacionais
 - [MapBox - Maps and location for developers](https://www.mapbox.com)
 - [OSF - plataforma aberta e gratuita para apoiar sua pesquisa e permitir a colaboração](https://osf.io)
 - [Jamboard - quadro branco interativo digital do Google](https://jamboard.google.com)
+- [Craft documents - Create structured & linked content easily](https://www.craft.do)
+- [Coda - All-in-one doc](https://coda.io)
+- [AmpleNote - note-taking app for to-do-list and calendar](https://www.amplenote.com)
 
 
 Gestão de projetos a distância / online
