@@ -49,6 +49,7 @@ Lista de software educacionais
 - [Craft documents - Create structured & linked content easily](https://www.craft.do)
 - [Coda - All-in-one doc](https://coda.io)
 - [AmpleNote - note-taking app for to-do-list and calendar](https://www.amplenote.com)
+- [Sobek - análise de frequência de termos](http://sobek.ufrgs.br/about.html)
 
 
 Gestão de projetos a distância / online
