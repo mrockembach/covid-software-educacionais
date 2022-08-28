@@ -67,7 +67,7 @@ Gestão de projetos a distância / online
 - [ProofHub - The one place for all your projects and team collaboration](https://www.proofhub.com)
 - [Paymo - Navigate the academic world with Paymo](https://www.paymoapp.com/project-management-universities/)
 - [Notion - All-in-one workspace](https://www.notion.so)
-- [Airtable | Create apps that perfectly fit your team's needs - low-code platform](https://airtable.com)
+- [Airtable - Create apps that perfectly fit your team's needs - low-code platform](https://airtable.com)
 - [Rock.so - Específico para equipes remotas. Mensagens, tarefas, notas, Google Drive e Zoom juntos](https://rock.so)
 - [Timely - teams track time](https://memory.ai/timely)
 
