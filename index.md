@@ -50,6 +50,11 @@ Lista de software educacionais
 - [Coda - All-in-one doc](https://coda.io)
 - [AmpleNote - note-taking app for to-do-list and calendar](https://www.amplenote.com)
 - [Sobek - análise de frequência de termos](http://sobek.ufrgs.br/about.html)
+- [Unsplash - banco de imagens gratuitas](https://unsplash.com)
+- [PDF24 tools - soluções para todos os problemas em PDF](https://tools.pdf24.org/en/)
+- [Open Library - busque milhões de livros](https://openlibrary.org)
+- [Noun project - catálogo de icones e design](https://thenounproject.com)
+- [Otter - transcrição de voz para texto](https://otter.ai)
 
 
 Gestão de projetos a distância / online
