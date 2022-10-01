@@ -55,6 +55,10 @@ Lista de software educacionais
 - [Open Library - busque milhões de livros](https://openlibrary.org)
 - [Noun project - catálogo de icones e design](https://thenounproject.com)
 - [Otter - transcrição de voz para texto](https://otter.ai)
+- [Dictation.io - transcrição de voz para texto - no Google Chrome](https://dictation.io/speech)
+- [Excel Formula Bot - Auxilio de IA para formulas em Excel ](https://excelformulabot.com/)
+- [Grammarly - AI assistant that reviews spelling, grammar, punctuation, clarity in text](https://www.grammarly.com)
+- [Carrd.com - landing pages](carrd.co/)
 
 
 Gestão de projetos a distância / online
