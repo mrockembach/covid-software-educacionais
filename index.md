@@ -54,11 +54,25 @@ Lista de software educacionais
 - [PDF24 tools - soluções para todos os problemas em PDF](https://tools.pdf24.org/en/)
 - [Open Library - busque milhões de livros](https://openlibrary.org)
 - [Noun project - catálogo de icones e design](https://thenounproject.com)
+- [Flaticon - icones e stickers](https://www.flaticon.com)
 - [Otter - transcrição de voz para texto](https://otter.ai)
 - [Dictation.io - transcrição de voz para texto - no Google Chrome](https://dictation.io/speech)
 - [Excel Formula Bot - Auxilio de IA para formulas em Excel ](https://excelformulabot.com/)
 - [Grammarly - AI assistant that reviews spelling, grammar, punctuation, clarity in text](https://www.grammarly.com)
 - [Carrd.com - landing pages](carrd.co/)
+
+Cores
+- [Color Hunt](https://colorhunt.co)
+- [Adobe Color](https://color.adobe.com)
+- [Brand Colors](https://brandcolors.net)
+- [Coolors](https://coolors.co)
+- [Paletton](https://paletton.com/)
+
+Fontes
+- [Google fonts](https://fonts.google.com)
+- [Fontshare](https://www.fontshare.com)
+- [Da Font](https://www.dafont.com)
+- [Font Squirrel](https://www.fontsquirrel.com)
 
 
 Gestão de projetos a distância / online
